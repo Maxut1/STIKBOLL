@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac56abb3-0a82-4b2d-ba57-3923126955ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/skins 1 player.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/skins 1 player.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__scripts/boll.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__scripts/boll.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__scripts/player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__scripts/player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__scripts/point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__scripts/point.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/__scripts/spawn.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/__scripts/player.cs" />
+        <option value="$PROJECT_DIR$/Assets/__scripts/RandomSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/__scripts/bonusDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/__scripts/spawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/__scripts/char_select.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FfcmlfzFNtaXGavQtyhaPsMEby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac56abb3-0a82-4b2d-ba57-3923126955ae" name="Default Changelist" comment="" />
+      <created>1664886771266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664886771266</updated>
+      <workItem from="1664886839410" duration="6021000" />
+      <workItem from="1664906659349" duration="691000" />
+      <workItem from="1665228366407" duration="1252000" />
+      <workItem from="1665488121771" duration="1164000" />
+      <workItem from="1665833684296" duration="825000" />
+      <workItem from="1667211916864" duration="602000" />
+      <workItem from="1668864238523" duration="241000" />
+      <workItem from="1668876392261" duration="444000" />
+      <workItem from="1669118159984" duration="2872000" />
+      <workItem from="1669206456017" duration="239000" />
+      <workItem from="1671364621848" duration="1539000" />
+      <workItem from="1672156475946" duration="774000" />
+      <workItem from="1672393609740" duration="262000" />
+      <workItem from="1672394443369" duration="335000" />
+      <workItem from="1672469090872" duration="1020000" />
+      <workItem from="1672661957511" duration="621000" />
+      <workItem from="1672729414496" duration="2051000" />
+      <workItem from="1674210729751" duration="2374000" />
+      <workItem from="1674810484237" duration="3163000" />
+      <workItem from="1677139919406" duration="658000" />
+      <workItem from="1677152282375" duration="1478000" />
+      <workItem from="1694026079582" duration="198000" />
+      <workItem from="1706030824982" duration="559000" />
+      <workItem from="1717103250307" duration="947000" />
+      <workItem from="1717163726761" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
