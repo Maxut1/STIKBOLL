@@ -55,16 +55,16 @@ public class char_select : MonoBehaviour
                 PlayerPrefs.SetInt(charSelected, 3);
                 morgenRen.enabled = false;
                 morgen.transform.position = charOutside;
-                Grigory.transform.position = charPosition;
-                grigoryRen.enabled = true;
+                niga.transform.position = charPosition;
+                nigaRen.enabled = true;
                 charInt++;
                 break;
             case 4:
                 PlayerPrefs.SetInt(charSelected, 4);
-                grigoryRen.enabled = false;
-                Grigory.transform.position = charOutside;
-                niga.transform.position = charPosition;
-                nigaRen.enabled = true;
+                nigaRen.enabled = false;
+                niga.transform.position = charOutside;
+                Grigory.transform.position = charPosition;
+                grigoryRen.enabled = true;
                 charInt++;
                 Loop();
                 break;
@@ -80,7 +80,7 @@ public class char_select : MonoBehaviour
         switch (charInt)
         {
             case 1:
-                PlayerPrefs.SetInt(charSelected, 2);
+                PlayerPrefs.SetInt(charSelected, 3);
                 grigoryRen.enabled = false;
                 Grigory.transform.position = charOutside;
                 niga.transform.position = charPosition;
@@ -89,7 +89,7 @@ public class char_select : MonoBehaviour
                 Loop();
                 break;
             case 2:
-                PlayerPrefs.SetInt(charSelected, 3);
+                PlayerPrefs.SetInt(charSelected, 4);
                 valeraRen.enabled = false;
                 valera.transform.position = charOutside;
                 Grigory.transform.position = charPosition;
@@ -98,18 +98,19 @@ public class char_select : MonoBehaviour
                 break;
             case 3:
                 PlayerPrefs.SetInt(charSelected, 1);
-                nigaRen.enabled = false;
-                niga.transform.position = charOutside;
+                morgenRen.enabled = false;
+                morgen.transform.position = charOutside;
                 valera.transform.position = charPosition;
                 valeraRen.enabled = true;
                 charInt--;
                 break;
+                
             case 4:
-                PlayerPrefs.SetInt(charSelected, 4);
-                grigoryRen.enabled = false;
-                Grigory.transform.position = charOutside;
-                valera.transform.position = charPosition;
-                valeraRen.enabled = true;
+                PlayerPrefs.SetInt(charSelected, 2);
+                nigaRen.enabled = false;
+                niga.transform.position = charOutside;
+                morgen.transform.position = charPosition;
+                morgenRen.enabled = true;
                 charInt--;
                 break;
             default:
@@ -120,7 +121,7 @@ public class char_select : MonoBehaviour
 
     private void Loop()
     {
-        if (charInt >= 4)
+        if (charInt > 4)
         {
             charInt = 1;
         }

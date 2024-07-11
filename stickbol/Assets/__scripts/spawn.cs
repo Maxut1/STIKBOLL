@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class spawn : MonoBehaviour
 {
-  public Sprite grigory, valera, morgen;
+  public Sprite grigory, valera, morgen, niga;
 
   private SpriteRenderer mainSprite;
   
@@ -31,6 +31,9 @@ public class spawn : MonoBehaviour
         mainSprite.sprite = morgen;
         break;
       case 3:
+        mainSprite.sprite = niga;
+        break;
+      case 4:
         mainSprite.sprite = grigory;
         break;
       default:

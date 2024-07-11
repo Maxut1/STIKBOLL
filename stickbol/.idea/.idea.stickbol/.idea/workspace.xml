@@ -20,15 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac56abb3-0a82-4b2d-ba57-3923126955ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.stickbol/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.stickbol/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.stickbol/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.stickbol/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.stickbol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.stickbol/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scenes/game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/skins 1 player.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/skins 1 player.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/__scripts/boll.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/__scripts/boll.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/__scripts/player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__scripts/player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/__scripts/point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__scripts/point.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__scripts/char_select.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__scripts/char_select.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__scripts/spawn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__scripts/spawn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/PrefabStageHierarchy/43/43984d53a57a7041ca1ae990a08d4513.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/PrefabStageHierarchy/43/43984d53a57a7041ca1ae990a08d4513.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/UnityEngine.TestRunner.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/UnityEngine.UI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/UnityEngine.UI.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +128,7 @@
       <workItem from="1706030824982" duration="559000" />
       <workItem from="1717103250307" duration="947000" />
       <workItem from="1717163726761" duration="51000" />
+      <workItem from="1718054836124" duration="7927000" />
     </task>
     <servers />
   </component>

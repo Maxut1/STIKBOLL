@@ -5232,21 +5232,61 @@ PrefabInstance:
       propertyPath: m_Name
       value: niga
       objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133715, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ba27cca830b75e148973fd09518bcf69, type: 3}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.049
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99967736
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.025399892
+      objectReference: {fileID: 0}
+    - target: {fileID: 1293950220925133719, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -2.911
+      objectReference: {fileID: 0}
     - target: {fileID: 1293950221519651064, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
       propertyPath: joystick
       value: 
       objectReference: {fileID: 1523142292}
     - target: {fileID: 1559781340996895569, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
+      propertyPath: niga
+      value: 
+      objectReference: {fileID: -3237110214027640674, guid: 44f196ed4e71d9f4780ac72d9b1c8a16, type: 3}
+    - target: {fileID: 1559781340996895569, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
       propertyPath: morgen
       value: 
-      objectReference: {fileID: 21300000, guid: d399ecab87585ad4cb5a674fd5d36dae, type: 3}
+      objectReference: {fileID: 6025709963774330722, guid: 44f196ed4e71d9f4780ac72d9b1c8a16, type: 3}
     - target: {fileID: 1559781340996895569, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
       propertyPath: valera
       value: 
-      objectReference: {fileID: 21300000, guid: 48733f27b29dec04b977deee7224d9b7, type: 3}
+      objectReference: {fileID: 7990545594044506211, guid: 44f196ed4e71d9f4780ac72d9b1c8a16, type: 3}
     - target: {fileID: 1559781340996895569, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
       propertyPath: grigory
       value: 
-      objectReference: {fileID: 21300000, guid: b596730afd8afba4f80032489f1bad0a, type: 3}
+      objectReference: {fileID: 4957189638503571147, guid: 44f196ed4e71d9f4780ac72d9b1c8a16, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0581cd82d1de1764ab97bbb582e71c51, type: 3}
