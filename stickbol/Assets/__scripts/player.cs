@@ -28,5 +28,10 @@ public class player : MonoBehaviour
     {
         rb.MovePosition(rb.position + dondon * Time.deltaTime);
     }
+
     
+
+
+
+
 }
